@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<uczestnicy>
+	<osoba lp="1" nazwisko="Bany" imię="Natalia" rok="2011"/>
+	<osoba lp="2" nazwisko="Borowski" imię="Grzegorz Jan" rok="2012"/>
+	<osoba lp="3" nazwisko="Bronikowski" imię="Michał Jerzy Adam" rok="2011"/>
+	<osoba lp="4" nazwisko="Jasińska" imię="Monika" rok="2011"/>
+	<osoba lp="5" nazwisko="Kopczyńska" imię="Jolanta" rok="2012"/>
+</uczestnicy>
