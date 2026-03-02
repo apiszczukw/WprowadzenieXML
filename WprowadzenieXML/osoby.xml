@@ -1,9 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 
 <uczestnicy>
-	<osoba lp="1" nazwisko="Bany" imię="Natalia" rok="2011"/>
-	<osoba lp="2" nazwisko="Borowski" imię="Grzegorz Jan" rok="2012"/>
-	<osoba lp="3" nazwisko="Bronikowski" imię="Michał Jerzy Adam" rok="2011"/>
-	<osoba lp="4" nazwisko="Jasińska" imię="Monika" rok="2011"/>
-	<osoba lp="5" nazwisko="Kopczyńska" imię="Jolanta" rok="2012"/>
+	<osoba lp="1" nazwisko="Bany" imię="Natalia" rok="2011" kierunek="administracja" dojazd="średni" stypendium="brak">
+		<przedmiot nazwa="prawo" ileGodzin="14"/>	
+		<przedmiot nazwa="finanse" ileGodzin="20"/>	
+		<przedmiot nazwa="zarządzanie zasobami ludzkimi" ileGodzin="8"/>	
+	</osoba>
+	<osoba lp="2" nazwisko="Borowski" imię="Grzegorz Jan" rok="2012" kierunek="administracja" dojazd="średni" stypendium="tak">
+		<przedmiot nazwa="prawo" ileGodzin="14"/>
+		<przedmiot nazwa="finanse" ileGodzin="20"/>
+		<przedmiot nazwa="zarządzanie zasobami ludzkimi" ileGodzin="8"/>
+	</osoba>
+	<osoba lp="3" nazwisko="Bronikowski" imię="Michał Jerzy Adam" rok="2011" kierunek="zarządzanie" dojazd="krótki" stypendium="brak">
+		<przedmiot nazwa="spółki prawa handlowego" ileGodzin="12"/>
+		<przedmiot nazwa="bezpieczeństwo" ileGodzin="8"/>
+	</osoba>
+	<osoba lp="4" nazwisko="Jasińska" imię="Monika" rok="2011" kierunek="administracja" dojazd="brak" stypendium="brak">
+		<przedmiot nazwa="prawo" ileGodzin="14"/>
+		<przedmiot nazwa="finanse" ileGodzin="20"/>
+		<przedmiot nazwa="zarządzanie zasobami ludzkimi" ileGodzin="8"/>
+	</osoba>
+	<osoba lp="5" nazwisko="Kopczyńska" imię="Jolanta" rok="2012" kierunek="zarządzanie" dojazd="długi" stypendium="tak">
+		<przedmiot nazwa="spółki prawa handlowego" ileGodzin="12"/>
+		<przedmiot nazwa="bezpieczeństwo" ileGodzin="8"/>
+	</osoba>
 </uczestnicy>

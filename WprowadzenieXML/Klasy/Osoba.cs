@@ -22,5 +22,17 @@ namespace WprowadzenieXML.Klasy
 
         [XmlAttribute("rok")]
         public int Rok { get; set; }
+
+        [XmlAttribute("kierunek")]
+        public string Kierunek { get; set; }
+
+        [XmlAttribute("stypendium")]
+        public string Stypendium { get; set; }
+
+        [XmlAttribute("dojazd")]
+        public string Dojazd { get; set; }
+
+        [XmlElement("przedmiot")]
+        public List<Przedmiot> Przedmioty { get; set; }
     }
 }
